@@ -12,9 +12,9 @@ A Flutter-based mobile application for grocery shopping with an intuitive and vi
 
 ## Screenshots
 
-![2](https://github.com/user-attachments/assets/d938efb7-263f-451a-bd63-da1027fefe3a)
-![dark mode](https://github.com/user-attachments/assets/ddce1964-f32f-4995-bd41-c2a657a0ded6)
-  ![1](https://github.com/user-attachments/assets/33dc27f9-6948-4276-997b-803c8ea6277e)
+![2](https://github.com/user-attachments/assets/fdf670fe-82d1-42ef-8efa-451ee7e8a4f4)
+![dark mode](https://github.com/user-attachments/assets/cb4c4fa8-e35f-40aa-b50f-7a53a14554f8)
+![1](https://github.com/user-attachments/assets/0c7c6690-cb6a-4c7b-9c63-75e37e078819)
 
 
 ## How to Run
